@@ -1,0 +1,8 @@
+Firebase Authentication
+Firebase Database
+Retrofit
+Material Design
+TabLayout with Fragments
+BottomNavigationBar
+SwipeRefreshLayout
+RecyclerView
